@@ -1,0 +1,46 @@
+[
+    {
+        "_id": 1,
+        "thumbnail": "../assets/blogs/blog-1.jpeg",
+        "category": "5D Кинотеатр",
+        "title":"Реальность становится виртуальной.",
+        "author": {
+            "name": "Lisa",
+            "image": "../assets/blogs/blog-author-1.jpg"
+        },
+        "date": "7.06.2024"
+    },
+    {
+        "_id": 2,
+        "thumbnail": "../assets/blogs/blog-2.jpeg",
+        "category": "Disney",
+        "title":"Волшебный мир детства.",
+        "author": {
+            "name": "Sonya",
+            "image": "../assets/blogs/blog-author-2.jpg"
+        },
+        "date": "19.04.2023"
+    },
+    {
+        "_id": 3,
+        "thumbnail": "../assets/blogs/blog-3.jpeg",
+        "category": "Кинотеатр",
+        "title":"Место волшебства фильмов.",
+        "author": {
+            "name": "Anna",
+            "image": "../assets/blogs/blog-author-3.jpg"
+        },
+        "date": "8.04.2024"
+    },
+    {
+        "_id": 4,
+        "thumbnail": "../assets/blogs/blog-4.jpeg",
+        "category": "Кинотеатр под открытым небом",
+        "title":"Звезды светят на экране.",
+        "author": {
+            "name": "Ilya",
+            "image": "../assets/blogs/blog-author-4.jpg"
+        },
+        "date": "12.09.2023"
+    }
+]
