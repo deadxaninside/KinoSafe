@@ -17,18 +17,18 @@
  Клонирование репозитория:
 
 
-## git clone https://github.com/deadxaninside/KinoSafe.git
+## `git clone https://github.com/deadxaninside/KinoSafe.git`
 
  Установка зависимостей:
 Перейдите в директорию проекта и выполните команду:
 
-## cd KINOSAFE
-## npm install
+## `cd KINOSAFE`
+## `npm install`
 
  Запуск проекта:
 После успешной установки зависимостей выполните команду:
 
-## npm start
+## `npm start`
 Это запустит локальный сервер для разработки. После этого приложение будет доступно по адресу http://localhost:3000 в вашем браузере.
 
 
