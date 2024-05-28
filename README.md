@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <h1 align="center">Здравствуйте!, Мы  
-  <a href="https://web.telegram.org/k/#@deadxaninside" target="_blank">София</a> 
+  <a href="https://t.me/deadxaninside" target="_blank">София,</a> 
+     <a href="https://t.me/monameAna" target="_blank">Анна,</a>
+        <a href="https://t.me/gwalut" target="_blank">Сергей</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 ## Available Scripts
