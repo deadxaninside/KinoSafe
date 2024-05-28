@@ -17,7 +17,7 @@
  Клонирование репозитория:
 
 
-## git clone https://github.com/deadxaniinside/KINOSAFE.git
+## git clone https://github.com/deadxaniinside/KINOSAFE.git](https://github.com/deadxaninside/KinoSafe.git
 
  Установка зависимостей:
 Перейдите в директорию проекта и выполните команду:
