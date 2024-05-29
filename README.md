@@ -40,7 +40,7 @@ js<br>
 figma<br>
 photoshop<br>
 
-## Документация
+
 
 
 
