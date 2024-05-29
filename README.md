@@ -38,7 +38,7 @@
 Если у вас возникли вопросы или предложения, пожалуйста, создайте issue в репозитории или свяжитесь с нами по адресу elaksonny9@gmail.com.
 
 Авторы:
- <a href=" <a href="https://t.me/deadxaninside" target="_blank">Афимина София,</a> 
+  <a href="https://github.com/deadxaninside" target="_blank">Афимина София</a> 
 Афимина София
 Огирчук Анна
 Саламатин Сергей
