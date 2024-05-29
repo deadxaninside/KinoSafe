@@ -39,7 +39,7 @@
 Авторы:<br>
   <a href="https://github.com/deadxaninside" target="_blank">Афимина София</a><br>
    <a href="https://github.com/HannahOgirchuk" target="_blank">Огирчук Анна</a><br>
-   <a href="https://github.com/gWalut" target="_blank">Саламатин Сергей</a><br>
+   <a href="https://github.com/gWalut" target="_blank">Саламатин Сергей</a><br><br>
    Если у вас возникли вопросы или предложения, пожалуйста, создайте issue в репозитории или свяжитесь с нами по адресу elaksonny9@gmail.com
 
 
