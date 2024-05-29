@@ -44,7 +44,7 @@ photoshop<br>
 
 
 
-Авторы:<br>
+## Авторы:<br>
   <a href="https://github.com/deadxaninside" target="_blank">Афимина София</a><br>
    <a href="https://github.com/HannahOgirchuk" target="_blank">Огирчук Анна</a><br>
    <a href="https://github.com/gWalut" target="_blank">Саламатин Сергей</a><br><br>
